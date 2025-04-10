@@ -1,7 +1,7 @@
 .home-container {
   width: 100vw;
   height: 80vh;
-  background-image: url('/public/bg1.jpeg'); // Make sure image exists
+  background-image: url('/public/bg1.jpeg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -11,7 +11,7 @@
   position: relative;
 
   .overlay {
-    background-color: rgba(0, 0, 0, 0.5); // dark overlay for readability
+    background-color: rgba(0, 0, 0, 0.5); 
     padding: 2rem;
     border-radius: 12px;
     text-align: center;
